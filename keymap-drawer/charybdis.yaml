@@ -31,9 +31,9 @@ layers:
   - ','
   - .
   - {t: /, h: Pointer}
-  - {t: '$$mdi:keyboard-tab$$', h: Media}
+  - {t: '$$mdi:keyboard-esc$$', h: Media}
   - {t: '$$mdi:keyboard-space$$', h: Navigation}
-  - {t: Numeral/Function, h: sticky}
+  - {t: '$$mdi:keyboard-tab$$', h: Numeral/Function}
   - {t: '$$mdi:keyboard-return$$', h: Symbol}
   - {t: '$$mdi:backspace$$', type: backspace}
   Numeral/Function:
