@@ -31,10 +31,10 @@ layers:
   - ','
   - .
   - {t: /, h: Pointer}
-  - {t: '$$mdi:keyboard-esc$$', h: Media}
+  - {t: '$$mdi:keyboard-tab$$', h: Media}
   - {t: '$$mdi:keyboard-space$$', h: Navigation}
   - {t: Numeral/Function, h: sticky}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:keyboard-return$$', h: Symbol}
   - {t: '$$mdi:backspace$$', type: backspace}
   Numeral/Function:
   - {t: ▽, type: trans}
@@ -106,7 +106,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   Navigation:
   - {t: ▽, type: trans}
